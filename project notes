@@ -1,3 +1,4 @@
 1) Give user the option of choosing the country and job type. Will have to string format the link 
 2) Some of the jobs have incomplete links. Will have to concat to make the link complete. Use regex and for loop to check if starts with https.
 3) Will have to set a time between scrape for each page and then for scraping of each link. Have to set cap at number of total jobs as well. 
+4) Ask the user for the list of skills he want a summary. That way we can expand it to incorporate any job title and skill set. 

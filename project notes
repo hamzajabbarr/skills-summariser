@@ -12,3 +12,7 @@ Final Workflow:
 2) Write a small script that gives back how many jobs on indeed.
 3) Ask the user to input how many jobs he wants to look through. Give a heads up that the more the jobs, the more the time it will take to run. Remember jobs are sorted by relevance by default.
 4) Start the script.
+
+Edits: 
+
+- On second thought for now this is a simple code. People can make their own changes to it if they want but for now I won't incorporate the feature of choosing how many jobs to look through.
